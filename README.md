@@ -1,0 +1,2 @@
+# my-snyk-project
+test
